@@ -1,0 +1,10 @@
+
+/node_modules
+/.eslintrc.js
+/nbproject/private/
+/nbproject
+/nano.save
+/ecosystem.config.json
+/config.json
+temp_auto_push.bat
+temp_interactive_push.bat
